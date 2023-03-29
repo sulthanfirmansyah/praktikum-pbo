@@ -1,5 +1,5 @@
 /**
-* File		    : BujurSangkar.java 26-03-2023
+* File		    : BujurSangkar.java 29-03-2023
 * Nama / NIM	: Sulthan Firmansyah / 24060121140108
 * Deskripsi	    : Kelas yang membuat implementasi metode abstrak pada bangun datar
 */
