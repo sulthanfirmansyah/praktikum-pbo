@@ -1,5 +1,5 @@
 /**
-* File		 : MBujurSangkar.java 26-03-2023
+* File		 : MBujurSangkar.java 29-03-2023
 * Nama / NIM : Sulthan Firmansyah / 24060121140108
 * Deskripsi	 : Kelas yang mengimplementasikan cara menghitung luas bujur sangkar
 */
