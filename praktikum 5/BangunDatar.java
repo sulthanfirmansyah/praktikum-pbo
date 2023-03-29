@@ -1,5 +1,5 @@
 /**
-* File		    : BangunDatar.java 26-03-2023
+* File		    : BangunDatar.java 29-03-2023
 * Nama / NIM	: Sulthan Firmansyah / 24060121140108
 * Deskripsi	    : Kelas abstrak, berisi abstraksi bangun datar
 */
